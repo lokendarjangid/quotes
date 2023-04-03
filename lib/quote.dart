@@ -3,5 +3,5 @@ class Quote {
   String text;
   String author;
 
-  Quote({this.text='Unknown', this.author='Unknown'});
+  Quote({required this.text,required this.author});
 }
