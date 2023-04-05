@@ -1,8 +1,8 @@
 # quotes
 
-A new Flutter project.
+This app contain some quotes from famous people. and displey it in a list view.
 
-## Getting Started
+## Getting Started with flutter
 
 This project is a starting point for a Flutter application.
 
