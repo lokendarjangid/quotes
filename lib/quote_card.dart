@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'quote.dart';
 
 class QuoteCard extends StatelessWidget {
@@ -11,7 +10,7 @@ class QuoteCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
       margin: const EdgeInsets.fromLTRB(16.0, 16.0, 16.0, 0.0),
-      shadowColor: Color.fromARGB(255, 226, 17, 17),
+      shadowColor: Color.fromARGB(255, 156, 32, 32),
       child: Padding(
         padding: const EdgeInsets.all(12.0),
         child: Column(
